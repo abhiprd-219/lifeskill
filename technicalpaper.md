@@ -105,6 +105,21 @@ class Cat extends Animal {
 }
 ```
 
+## Abstraction in Object-Oriented Programming (OOP)
+Abstraction is one of the fundamental principles of OOP. It involves simplifying complex systems by focusing on the essential features and hiding unnecessary details. In essence, abstraction allows you to model real-world entities in a way that captures their key characteristics without getting bogged down in implementation specifics.
+
+Key Concepts in Abstraction:
+
+* Abstract Classes:
+
+<i>A class that cannot be instantiated directly.</i>
+<i>It serves as a blueprint for other classes, defining common methods and properties.</i>
+<i>Abstract classes often contain abstract methods, which have no implementation and must be overridden by subclasses.</i>
+``` Java
+abstract class Shape {
+    abstract void draw();
+}
+```
 
 ### Refactoring the Codebase
 <b>To refactor the codebase effectively, consider the following OOP principles:</b>
