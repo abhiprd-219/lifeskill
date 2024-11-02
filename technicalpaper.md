@@ -1,16 +1,16 @@
-# Object-Oriented Programming (OOP) Concepts and Code Refactoring
+# Object-Oriented Programming (OOP) Concepts for Understanding
 
 ## Introduction
 
 
 
-Object-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of "objects." It provides a structured approach to designing and developing software systems. By understanding and applying OOP principles, we can create more modular, reusable, and maintainable code.
+Object-oriented programming (OOP) is a programming paradigm centered on the concept of "objects." It provides a structured approach to designing and developing software systems. We can create more modular, reusable, and maintainable code by understanding and applying OOP principles.
 
 ## Core OOP Concepts
 
 ### 1. Class
 * A blueprint or template for creating objects.
-* **Real-world example:** A car blueprint defines the properties (color, model, year) and behaviors (start, stop, accelerate) of a car.
+* **Real-world example:** A car blueprint defines a car's properties (color, model, year) and behaviors (start, stop, accelerate).
 * Also take an example of a Human being who has properties like physical appearance and behaviors like speaking, running, walking, talking, etc.
 
 ```java
@@ -125,5 +125,6 @@ class Cat extends Animal {
 
 <i>Make attributes private and provide public methods to access and modify them.</i>
 <i>This protects data integrity and promotes code modularity.</i>
-By applying these principles, you can improve the code's readability, maintainability, and extensibility.
+
+By applying the above principles, we can improve the code's readability, maintainability, and extensibility.
 
