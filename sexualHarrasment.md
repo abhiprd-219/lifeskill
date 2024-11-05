@@ -39,7 +39,7 @@ These scenarios help people identify harassment and show why certain behaviors c
 * Seek support: Harassment can be upsetting, so talk to friends, family, or a counselor if needed for emotional support.
 ## 3. How to behave appropriately:
 
-<b>To create a respectful workplace:</b>
+
 
 * Be mindful of others: Avoid comments, jokes, or actions that could make others uncomfortable.
 * Respect personal space: Don’t touch or stand too close to people unless you know they’re comfortable with it.
