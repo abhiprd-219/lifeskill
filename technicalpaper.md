@@ -143,3 +143,8 @@ abstract class Shape {
 
 By applying the above principles, we can improve the code's readability, maintainability, and extensibility.
 
+
+### References
+[GFG](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
+[W3Schools](https://www.w3schools.com/java/java_oop.asp)
+
