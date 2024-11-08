@@ -9,10 +9,10 @@ The best way to make understand anyone your thought is to make them simple in ad
 
 ##### Some steps are following which need to be followed for a better outcome
 
-<b>Step 1:</b> Grab a sheet of paper and write the name of the concept at the top. You can use pretty much any concept or idea – even though the technique is named after Feynman, it’s not limited solely to math and science.
-<br><b>Step 2:</b> Explain the concept in your own words as if you were teaching it to someone else. Focus on using plain, simple language. Don’t limit your explanation to a simple definition or a broad overview; challenge yourself to work through an example or two as well to ensure you can put the concept into action.
-<br><b>Step 3:</b> Review your explanation and identify the areas where you didn’t know something or where you feel your explanation is shaky. Once you’ve pinpointed them, go back to the source material, your notes, or any examples you can find to shore up your understanding.
-<br><b>Step 4:</b> If there are any areas in your explanation where you’ve used lots of technical terms or complex language, challenge yourself to re-write these sections in simpler terms. Make sure your explanation could be understood by someone without the knowledge base you believe you already have.
+<b>Step 1:</b> Grab a sheet of paper and write the name of the concept at the top. You can use pretty much any concept or idea – even though the technique is named after Feynman, it’s not limited solely to math and science.<br>
+<br><b>Step 2:</b> Explain the concept in your own words as if you were teaching it to someone else. Focus on using plain, simple language. Don’t limit your explanation to a simple definition or a broad overview; challenge yourself to work through an example or two as well to ensure you can put the concept into action.<br>
+<br><b>Step 3:</b> Review your explanation and identify the areas where you didn’t know something or where you feel your explanation is shaky. Once you’ve pinpointed them, go back to the source material, your notes, or any examples you can find to shore up your understanding.<br>
+<br><b>Step 4:</b> If there are any areas in your explanation where you’ve used lots of technical terms or complex language, challenge yourself to re-write these sections in simpler terms. Make sure your explanation can be understood by someone without the knowledge base you believe you already have.
 
 ### Learning How to Learn TED talk by Barbara Oakley
 
@@ -21,13 +21,13 @@ In the video, Barbara Oakley, Ph.D., PE a professor of engineering at Oakland Un
 ### Steps that you can take to improve your learning process?
 
  - Vary your learning routine, locations, and material
-Many students have a fixed time and place to study. However research has shown that varying your study location – at home in a different room, at school, or in a library- can improve learning. Similarly occasionally changing the time of day you study and the materials you use - laptop, pen, and paper, speaking into a voice recorder - also boost learning. 
+Many students have a fixed time and place to study. However, research has shown that varying your study location – at home in a different room, at school, or in a library- can improve learning. Similarly occasionally changing the time of day you study and the materials you use - laptop, pen, and paper, speaking into a voice recorder - also boosts learning. 
 
 #### - Space your study time<br>
-It's better to do two one-hour study sessions than a single unbroken two-hour session. You will remember more if you do an hour today, then another hour tomorrow, especially if you get the right sleep during the night (see tip 2).
+It's better to do two one-hour study sessions than a single unbroken two-hour session. You will remember more if you do an hour today, and then another hour tomorrow, especially if you get the right sleep during the night (see tip 2).
 
 "Cramming" for an exam can work…. for your exam results
-This is the last resort tactic and is proven to work short term, so you will probably do better in the exam. But you won't remember much long term.
+This is the last resort tactic and has been proven to work in the short term, so you will probably do better in the exam. But you won't remember much in the long term.
 
 Your brain makes long-term memories only after some forgetting has happened. This is similar to a muscle that needs exercise to break it down a little so that it can become stronger.
 
@@ -47,11 +47,11 @@ For example, working on maths, then history, then building a PowerPoint presenta
 The first eight tips are really about how to get the best result from your brain’s current "learning capacity”. By “learning capacity” I mean the physical structure of your brain, including all the neural networks that determine how well you can think (your memory, attention, speed of processing, and ability to sequence ideas). Imagine if you could increase your brain’s ability to do those things better. Thanks to recent neuroscience research and the conversion of that into a range of brain training programs we all now can improve our learning capacity. Then when you use learning tips 1 – 8, you will get an even better learning outcome.
 
 #### How to learn anything:<br>
-The main way to start learning a new skill at a particular time is to be consistent and start enjoying it by doing some steps to follow.
-<br>1.Deconstruct the skill(what do you want to be capable of after learning the skill, divide the skills into smaller pieces of skill).
-<br>2.Learn enough self-correct.(get three or five resources about the skill (books, courses, online resources) )
-<br>3.Remove practice barriers (internet, social media, television)
-<br>4.Practice for at least 20 hours. (You can overcome the frustration barrier after practicing the 20 hours)
+The main way to start learning a new skill at a particular time is to be consistent and start enjoying it by taking some steps.
+ * Deconstruct the skill(what do you want to be capable of after learning the skill, divide the skills into smaller pieces of skill).
+* Learn enough self-correct.(get three or five resources about the skill (books, courses, online resources) )
+* Remove practice barriers (internet, social media, television)
+* Practice for at least 20 hours. (You can overcome the frustration barrier after practicing the 20 hours)
 ##### In my point of view, the major barrier is not intellectual, it is emotional*
 
 
