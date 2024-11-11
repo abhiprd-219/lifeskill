@@ -35,5 +35,7 @@ People with a high internal locus of control believe that they control their suc
 
 ## What are one or more points from the manual that you want to take action on? (Maximum 3)
 
-I will stay with a problem till I complete it. I will not quit the problem.<br>
-I will be focused on mastery till I can do things half asleep. If someone wakes me up at 3 AM at night, I will calmly solve the problem, like James Bond, and go to sleep. 
+* I will stay with a problem till I complete it.
+* I will not quit the problem.
+
+* I will be focused on mastery till I can do things half asleep. If someone wakes me up at 3 AM at night, I will calmly solve the problem, like James Bond, and go to sleep. 
