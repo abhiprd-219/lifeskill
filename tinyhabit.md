@@ -1,4 +1,4 @@
-<h2>Your takeaways from the video(Tiny Habit)</h2>
+<h2>My takeaways from the video(Tiny Habit)</h2>
 
 * To achieve goals, you need to focus on the small step, not the goal itself. Small steps are clearly defined actions.
 * It is much easier to do "Baby Steps" to get the big goal, than jumping straight to the goal and falling back into the old habit.
@@ -6,7 +6,7 @@
 * This is great. I know it works. But we have to put effort into maintaining the habit. 
 * This is extraordinary insight...simple yet so powerful!<br>
 
-<h2>Your takeaways from the video in as much detail as possible</h2>
+<h2>My takeaways from the video in as much detail as possible</h2>
 
 BJ Fogg suggests shrinking every new habit to the tiniest possible version, so you don’t need to rely on motivation. You can find the tiniest
 version of your desired habit by either reducing the quantity or doing just the first step. For example:
@@ -36,7 +36,7 @@ This is true for building a habit and breaking an old habit in equal measure. <b
 <h2>Why it is important to "Shine" or Celebrate after each successful completion of habit?</h2>
 As is said by someone it doesn’t take 21 days to wire in a habit, says psychologist BJ Fogg. Sometimes, all you need is a shot of positive feeling and emotion, a dose of celebration. Celebrating is a great way to reinforce small changes — and pave the way for big successes.<br>
 
-<h2>Your takeaways from the video (1% Better Every Day )</h2><br>
+<h2>My takeaways from the video (1% Better Every Day )</h2><br>
 
 
 *  HABITS ARE THE COMPOUND INTEREST OF SELF IMPROVEMENT".<br>
