@@ -1,6 +1,6 @@
 ## What is your one major takeaway from each one of the 6 sections?
 
-#### Following Answers are according to points:-
+#### Following points i got from each points and most of them are new to me:-
 
 * From the first point Make notes while discussing requirements with the team and Make sure to ask questions and seek clarity in the meeting itself. Since most of the time, it will be difficult to get the same set of people online again is the main takeaway.
 
